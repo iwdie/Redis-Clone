@@ -1,0 +1,17 @@
+# binaries
+/redis-clone
+/bin/
+*.exe
+
+# persistence
+*.aof
+
+# editor / OS
+.idea/
+.vscode/
+.DS_Store
+
+# go
+*.test
+*.out
+coverage.*
